@@ -1,6 +1,6 @@
 resource "tfe_workspace" "coder-dev" {
   name              = "coder-dev"
-  organization      = "SRM123"
+  organization      = "RevDev123s"
   auto_apply        = true
   structured_run_output_enabled = false
 }
