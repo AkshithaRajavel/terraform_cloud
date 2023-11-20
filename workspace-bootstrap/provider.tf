@@ -3,7 +3,7 @@ terraform {
     organization = "RevDev123"
     workspaces {
       name = "terraform-cloud-workspace-bootstrap"
-    }
+    }                                   
   }
   required_providers {
     tfe = {
